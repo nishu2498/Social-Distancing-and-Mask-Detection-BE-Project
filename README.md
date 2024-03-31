@@ -149,3 +149,9 @@ Covid 19
 -------------------------------------------------------------------------------------------------------------------------
 ### Project Mentor: <a href="https://www.linkedin.com/in/anuradha-deokar-18ab8013b/">@Prof A S Deokar</a>
 -------------------------------------------------------------------------------------------------------------------------
+
+Few notes:
+
+Cannot upload the yolov3 weight file, one can download it from online sources like : https://github.com/patrick013/Object-Detection---Yolov3/blob/master/model/yolov3.weights
+
+Cannot upload the dataset, one can download dataset from : https://www.kaggle.com/datasets/revanthrex/mafadataset/data
