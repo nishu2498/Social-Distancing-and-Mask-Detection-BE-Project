@@ -150,6 +150,26 @@ Covid 19
 ### Project Mentor: <a href="https://www.linkedin.com/in/anuradha-deokar-18ab8013b/">@Prof A S Deokar</a>
 -------------------------------------------------------------------------------------------------------------------------
 
+-------------------------------------------------------------------------------------------------------------------------
+### Project images
+<code> 
+Person detected wearing mask
+<img height = "200" src = "img/project_image1.jpeg"></code>
+<code> 
+Person detected not wearing mask 
+<img height = "200" src = "img/project_image2.jpeg"></code>
+<code> 
+Multiple person detected maintaining social distance 
+<img height = "200" src = "img/project_image3.jpeg"></code>
+<code> 
+Multiple person detected not maintaining social distance 
+<img height = "200" src = "img/project_image4.jpeg"></code>
+<code> 
+Project team photo after awarded completion status from project mentor 
+<img height = "200" src = "img/project_image5.jpeg"></code>
+
+-------------------------------------------------------------------------------------------------------------------------
+
 Few notes:
 
 Cannot upload the yolov3 weight file, one can download it from online sources like : https://github.com/patrick013/Object-Detection---Yolov3/blob/master/model/yolov3.weights
